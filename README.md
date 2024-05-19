@@ -1,2 +1,2 @@
 # cmatrix
-A C++ class that allows you to do some MATRIX calculation and analysis
+A small C++ class that allows you to do some MATRIX calculation and analysis
